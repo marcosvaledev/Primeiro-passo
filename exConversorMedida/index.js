@@ -11,7 +11,7 @@ switch(unidade){
         break
     case 3:
         alert()
-        break
+        breakk
     case 4:
         alert()
        break
